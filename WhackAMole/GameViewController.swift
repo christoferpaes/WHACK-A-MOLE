@@ -2,8 +2,8 @@
 //  GameViewController.swift
 //  WhackAMole
 //
-//  Created by Valentina Carfagno on 6/9/19.
-//  Copyright © 2019 Valentina Carfagno. All rights reserved.
+//  Created by Chiristofer Patrick Paes on 6/9/19.
+//  Copyright © 2019 Chiristofer Patrick Paes. All rights reserved.
 //
 
 import UIKit
