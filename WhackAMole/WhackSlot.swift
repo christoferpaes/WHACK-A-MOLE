@@ -2,8 +2,8 @@
 //  WhackSlot.swift
 //  WhackAMole
 //
-//  Created by Chiristofer Patrick Paes on 6/9/19.
-//  Copyright © 2019 Chiristofer Patrick Paes. All rights reserved.
+//  Created by Christofer Patrick Paes on 6/9/19.
+//  Copyright © 2019 Christofer Patrick Paes. All rights reserved.
 //
 
 import UIKit
