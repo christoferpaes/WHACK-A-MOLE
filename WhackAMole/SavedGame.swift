@@ -2,8 +2,8 @@
 //  SavedGame.swift
 //  WhackAMole
 //
-//  Created by Valentina Carfagno on 6/9/19.
-//  Copyright © 2019 Valentina Carfagno. All rights reserved.
+//  Created by Christofer Patrick Paes on 6/9/19.
+//  Copyright © 2019 Christofer Patrick Paes . All rights reserved.
 //
 import Foundation
 import UIKit
